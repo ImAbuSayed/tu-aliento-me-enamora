@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Tu aliento me enamora |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-me-enamora/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [Secure Licensing Rights for Tu aliento me enamora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-me-enamora/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tu aliento me enamora, me quita la razón
-> Siento el calor subiendo, perdiendo el control
-> En esta noche oscura, tú eres mi adicción
-> Bailando en la neblina, marcando la tensión
+> Tu aliento me enamora, noche de pasión
+> Bajo luces de neón, late mi corazón
+> Cada beso es un pecado, dulce tentación
+> Sayed te canta al oído, sin restricción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
