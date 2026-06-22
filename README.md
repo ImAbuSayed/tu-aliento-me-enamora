@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-me-enamora/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu aliento me enamora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-me-enamora/) |
+| **Get License** | [Official Music Licensing for Tu aliento me enamora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-me-enamora/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aliento me enamora, me quita la razón
+> Siento el calor subiendo, perdiendo el control
+> En esta noche oscura, tú eres mi adicción
+> Bailando en la neblina, marcando la tensión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
