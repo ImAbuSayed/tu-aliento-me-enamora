@@ -15,7 +15,7 @@
 | **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-me-enamora/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tu aliento me enamora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-me-enamora/) |
+| **Get License** | [Get License For Tu aliento me enamora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-me-enamora/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/4020)
+- [Telegram](https://t.me/AbuSayedMusic/4042)
 
 ---
 
